@@ -2,7 +2,7 @@
 <p> I've been studiyning programming for 2 years. But I am doing it seriously for a year. I am a Highschool student. That's why I can not only focus on programming. I am not in a team yet. But I want to form a team in the future. <p>
   
 <h2> What am I working/learning on? </h2>
-<p> I enjoy working with <a href="https://www.javascript.com/">JavaScript</a>. I am using JavaScript for making a <a href="https://discord.com/">Discord</a> bot.<p>
+<p> I enjoy working with <a href="https://www.javascript.com/">JavaScript</a>. I am using JavaScript to make a <a href="https://discord.com/">Discord</a> bot.<p>
   
 <p> I also learning HTML for programming a website. <p>
   
