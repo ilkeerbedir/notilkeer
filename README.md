@@ -4,7 +4,7 @@
 <h2> What am I working/learning on? </h2>
 <p> I enjoy working with <a href="https://www.javascript.com/">JavaScript</a>. I am using JavaScript to make a <a href="https://discord.com/">Discord</a> bot.<p>
   
-<p> I also learning HTML for programming a website. <p>
+<p> I am also learning HTML for programming a website. <p>
   
 <p> Making games in also my interests. I am learning <a href="https://unity.com/">Unity</a> to create my own game. I started learning pixel art to do my own game. <p>
   
