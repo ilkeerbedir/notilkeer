@@ -6,12 +6,12 @@
   
 <p> I also learning HTML for programming a website. <p>
   
-<p> Doing a game too in my interests. I am learning <a href="https://unity.com/">Unity</a> to create my own game. I started learning pixel art to do my own game. <p>
+<p> Making games in also my interests. I am learning <a href="https://unity.com/">Unity</a> to create my own game. I started learning pixel art to do my own game. <p>
   
 <h2> What I want to do in future? </h2>
-<p> -I want to develop my discord bot for share it on <a href="https://top.gg/tr">Discord Bots List</a>. <p>
+<p> -I want to develop my discord bot to share it on <a href="https://top.gg/tr">Discord Bots List</a>. <p>
 <p> -Form a team for doing games and joining GameJams. <p>
-<p> -Programming my own website to introduce myself as well. <p>
+<p> -Programming my own website. <p>
 
 <h3> For Communication: </h3>
 <p> E-mail: ilkerbedir17w@outlook.com <p>
