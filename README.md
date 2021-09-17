@@ -14,4 +14,4 @@
 <p> -Programming my own website to introduce myself as well. <p>
 
 <h3> For Communication: </h3>
-<p> <a href="ilkerbedir17w@outlook.com">E-mail</a>
+<p> E-mail: ilkerbedir17w@outlook.com <p>
